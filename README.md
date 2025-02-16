@@ -12,4 +12,5 @@ This repository contains creative coding projects using Python's `turtle` module
 - **Christmas Tree** (`thirdassignment_christmas.py`) – Merry Christmas!  I tried the capture the right amount of Christmas spirit!
 - **Ornament Generator** (`thirdassignment_christmas_2.py`) – I tried coding some ornaments!  
 
+Also the incom link to coding diary is here : https://designpf.incom.org/project/21236 
 
