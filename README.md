@@ -1,9 +1,7 @@
 # madfm-cc
 python coding documentation during the creative coding class
  
-# Creative Coding Projects  
-
-This repository contains creative coding projects using Python's `turtle` module. Each script generates unique visuals through code.  
+# Creative Coding Projects    
 
 ## Projects  
 
